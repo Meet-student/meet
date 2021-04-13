@@ -25,7 +25,7 @@ Software Engineering Graduate 2015. My passion for software lies with dreaming u
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
-[![meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=muwoo)](https://github.com/muwoo/github-readme-stats)<img align="right" src="https://github.com/muwoo/muwoo/blob/main/5fd282b08749dcb9ecb56d1fd52fe567.gif" width="300" height="190">
+[![meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meet-student)](https://github.com/Meet-student/github-readme-stats)<img align="right" src="https://github.com/muwoo/muwoo/blob/main/5fd282b08749dcb9ecb56d1fd52fe567.gif" width="300" height="190">
 
 
 -------
