@@ -2,9 +2,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 ![](https://komarev.com/ghpvc/?username=muwoo&color=blue&style=flat-square&label=PROFILE+VIEWS)
-  
+
 :heart: Programming | :green_heart: Dota | :blue_heart: Anime
-  
+
 Software Engineering Graduate 2015. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 
 - :hammer_and_wrench: I am currently studying relevant knowledge in the field of visual construction. <img align="right" src="https://github.com/muwoo/muwoo/blob/main/4540afb7a97665bee5ce0865595f0614.gif" width="200">
@@ -24,9 +24,9 @@ Software Engineering Graduate 2015. My passion for software lies with dreaming u
 ----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-  
-[![meet's GitHub stats](https://github.com/Meet-student)](https://github.com/Meet-student)<img align="right" src="https://github.com/muwoo/muwoo/blob/main/5fd282b08749dcb9ecb56d1fd52fe567.gif" width="300" height="190">
- 
+
+[![meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=muwoo)](https://github.com/muwoo/github-readme-stats)<img align="right" src="https://github.com/muwoo/muwoo/blob/main/5fd282b08749dcb9ecb56d1fd52fe567.gif" width="300" height="190">
+
 
 -------
 
@@ -35,10 +35,10 @@ Software Engineering Graduate 2015. My passion for software lies with dreaming u
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muwoo&layout=compact)](https://github.com/muwoo/github-readme-stats)
 
   
-  
+
 **What I love**
 
-| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/muwoo/muwoo/blob/main/2e8889106108c13c8661c863c714a0c3.gif width="110" height="100"> | <img src=https://github.com/muwoo/muwoo/blob/main/1527df1ff09dca815ea5c1c47a89f384.gif width="160" height="100"> | 
+| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/muwoo/muwoo/blob/main/2e8889106108c13c8661c863c714a0c3.gif width="110" height="100"> | <img src=https://github.com/muwoo/muwoo/blob/main/1527df1ff09dca815ea5c1c47a89f384.gif width="160" height="100"> |
 | :---: | :---: | :---: |
 | <b>Coding</b> | <b>Dota</b> | <b>Anime</b> |
 
