@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://lh3.googleusercontent.com/ogw/ADGmqu9WEbi5Jpeg6tsFGzUyNvxOCQikOcRl3V2XRJM=s32-c-mo">
+<img align="right" width="300" height="300" src="https://github.com/Meet-student">
 
 
 # Hi, I'm [Meet!](https://github.com/Meet-student/Meet-student) 👋.
