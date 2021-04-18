@@ -3,7 +3,6 @@
 
 # Hi, I'm [Meet!](https://github.com/Meet-student/Meet-student) 👋.
 
-
 - :hammer_and_wrench: I am currently studying relevant knowledge in the field of visual construction.
 - :books: I’m currently learning Gamified thinking | Web development | App Development | Cyber Security
 - :question: Ask me about anything. I will try to help you as much as I can.
@@ -21,13 +20,10 @@
 - 💻  like 极客开源
 - 🍓  like 树莓派
 
-### Interesting stats
 
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=SAnBlog&show_icons=true)
-
-Thanks for stopping by! 😁
-
----
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+  
+[![muwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meet-student)](https://github.com/Meet-student/github-readme-stats)<img align="right" src="https://github.com/muwoo/muwoo/blob/main/5fd282b08749dcb9ecb56d1fd52fe567.gif" width="300" height="190">
 
 📊 **Most Used Languages**
 
