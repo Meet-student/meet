@@ -3,9 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=muwoo&color=blue&style=flat-square&label=PROFILE+VIEWS)
   
-:heart: Programming | :green_heart: Dota | :blue_heart: Anime
-  
-Software Engineering Graduate 2015. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
+:heart: Programming | :green_heart: Music | :blue_heart: Anime
+
 
 - :hammer_and_wrench: I am currently studying relevant knowledge in the field of visual construction. <img align="right" src="https://github.com/muwoo/muwoo/blob/main/4540afb7a97665bee5ce0865595f0614.gif" width="200">
 - :books: I’m currently learning Gamified thinking | Web development | App Development | Cyber Security
