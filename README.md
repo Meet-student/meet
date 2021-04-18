@@ -1,7 +1,7 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-![](https://komarev.com/ghpvc/?username=muwoo&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Meet-student&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 :heart: Programming | :green_heart: Dota | :blue_heart: Anime
 
@@ -33,12 +33,4 @@ Software Engineering Graduate 2015. My passion for software lies with dreaming u
 📊 **Most Used Languages**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meet-student&layout=compact)](https://github.com/Meet-student/github-readme-stats)
-
-  
-
-**What I love**
-
-| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/muwoo/muwoo/blob/main/2e8889106108c13c8661c863c714a0c3.gif width="110" height="100"> | <img src=https://github.com/muwoo/muwoo/blob/main/1527df1ff09dca815ea5c1c47a89f384.gif width="160" height="100"> |
-| :---: | :---: | :---: |
-| <b>Coding</b> | <b>Dota</b> | <b>Anime</b> |
 
