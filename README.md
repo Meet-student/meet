@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/59312002?v=4">
+<img align="right" width="300" height="300" src="https://github.com/Meet-student/Meet-student/blob/master/assets/image/code.gif">
 
 
 # Hi, I'm [Meet!](https://github.com/Meet-student/Meet-student) 👋.
@@ -8,17 +8,23 @@
 - :question: Ask me about anything. I will try to help you as much as I can.
 - :microphone: Quote: "Front-end means to be at the front of the user."
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-  
-[![Meet-student's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meet-student)](https://github.com/Meet-student/github-readme-stats)
-
 ## 📊 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meet-student&layout=compact)](https://github.com/Meet-student/github-readme-stats)
-
-**Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<hr />
+
+## 🛠️ 思维导图
+
+## 📘 笔记文章
+
+[深入理解SSR , 学习React SSR 框架 NextJS](https://github.com/Meet-student/Meet-student/issues/3)
+
+[从零学习Webpack核心机制Loader、Plugin到彩蛋原理分析](https://github.com/Meet-student/Meet-student/issues/2
+
+[Javascript执行期上下文、预编译](https://github.com/Meet-student/Meet-student/issues/1)
