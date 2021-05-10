@@ -136,11 +136,6 @@ function throttle(handle,wait){
       },wait)
   }
 }
-
-作者：遇见同学
-链接：https://juejin.cn/post/6881921725634707464
-来源：掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ```
 
 #### 防抖(debounce)
