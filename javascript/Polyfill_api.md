@@ -103,7 +103,7 @@ Array.prototype.mySome = function(handle) {
 
 * 作用：数组调用,对数组的元素做累加(字符串操作)，返回最终累加值;
 * 参数：
-  * 函数(累加器上一次执行的返回值,ele,inde,self)
+  * 函数(累加器上一次执行的返回值,ele,index,self)
   * 初始值
   * this
 
