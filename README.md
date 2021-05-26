@@ -20,6 +20,12 @@
 
 <hr />
 
+联系我：
+
+掘金：[https://juejin.cn/user/3544481220800296](https://juejin.cn/user/3544481220800296)
+
+其他社区也在疯狂接触！！
+
 ## 🛠️ 思维导图
 
 | [前端基础](https://docs.qq.com/mind/DS0t2b0hVT0lEVkR1) | [前端面试](https://docs.qq.com/mind/DS1pTY2ZzT1R4eWhv) | 
