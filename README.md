@@ -33,7 +33,7 @@
 | [前端基础](https://docs.qq.com/mind/DS0t2b0hVT0lEVkR1) | [前端面试](https://docs.qq.com/mind/DS1pTY2ZzT1R4eWhv) | 
 | :---: | :---: |
 
-| [Redux](https://docs.qq.com/mind/DS2hlenVPUldHVGxL)| 
+| [Redux源码分析](https://docs.qq.com/mind/DS2hlenVPUldHVGxL)| 
 | :---: |
 
 ## 📘 笔记文章
