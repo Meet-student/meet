@@ -33,7 +33,12 @@
 | [前端基础](https://docs.qq.com/mind/DS0t2b0hVT0lEVkR1) | [前端面试](https://docs.qq.com/mind/DS1pTY2ZzT1R4eWhv) | 
 | :---: | :---: |
 
+| [Redux](https://docs.qq.com/mind/DS2hlenVPUldHVGxL)| 
+| :---: |
+
 ## 📘 笔记文章
+
+[Redux 和 Mobx 那个更优美 ，一起探索谁丝滑！](https://github.com/Meet-student/Meet-student/issues/4)
 
 [深入理解SSR , 学习React SSR 框架 NextJS](https://github.com/Meet-student/Meet-student/issues/3)
 
