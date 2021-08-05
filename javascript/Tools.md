@@ -56,10 +56,10 @@ function partial(fn,...rest) {
 
 ```javascript
 function compose(){
-	var args = Array.prototype.slice.call(arguments),
-        len = args.length - 1;
+    var args = Array.prototype.slice.call(arguments),
+    len = args.length - 1;
     return function(x){
-		var res = args[len](x);
+	var res = args[len](x);
         while(len--){
             res = args[len](res);          
         }
