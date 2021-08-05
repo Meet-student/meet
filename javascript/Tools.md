@@ -6,10 +6,10 @@
 
 ```javascript
 function curry(fn , len){
-	var len = len || fn.length;
+    var len = len || fn.length;
     var func = function(fn){
-		var _arg = [].slice.call(arguments,1);
-        retturn function(){
+     var _arg = [].slice.call(arguments,1);
+        return function(){
             var newArgs = _args.concat([],slice.call(arguments));
             return fn.apply(this,newArgs);
         }
