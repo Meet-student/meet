@@ -45,3 +45,7 @@
 [从零学习Webpack核心机制Loader、Plugin到彩蛋原理分析](https://github.com/Meet-student/Meet-student/issues/2)
 
 [Javascript执行期上下文、预编译](https://github.com/Meet-student/Meet-student/issues/1)
+
+## 🤔 思考成长
+
+[Redux 和 Mobx 那个更优美 ，一起探索谁丝滑！](https://github.com/Meet-student/Meet-student/issues/4)
