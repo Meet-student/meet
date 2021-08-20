@@ -48,4 +48,4 @@
 
 ## 🤔 思考成长
 
-[Redux 和 Mobx 那个更优美 ，一起探索谁丝滑！](https://github.com/Meet-student/Meet-student/issues/4)
+[Redux 和 Mobx 那个更优美 ，一起探索谁丝滑！](https://github.com/Meet-student/Meet-student/issues/5)
