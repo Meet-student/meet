@@ -48,4 +48,4 @@
 
 ## 🤔 思考成长
 
-[Redux 和 Mobx 那个更优美 ，一起探索谁丝滑！](https://github.com/Meet-student/Meet-student/issues/5)
+[你是如何设计一个可扩展、通用的、健壮性组件](https://github.com/Meet-student/Meet-student/issues/5)
