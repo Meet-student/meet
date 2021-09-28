@@ -18,8 +18,8 @@ function curry(fn , len){
     return function(){
         var argLen = arguments.length;
         if(argLen < len){
-			var formatedArr = [fn].concat([].slice.call(arguments));
-            return curry(func.apply(this,formatedArr),len - argLen);
+            var formattedArr = [fn].concat([].slice.call(arguments));
+            return curry(func.apply(this,formattedArr),len - argLen);
         }else{
             return fn.apply(this,arguments);
         }
@@ -32,7 +32,7 @@ function curry(fn , len){
 - 概念：偏函数应用是固定一个函数的一个或多个参数，并返回一个可以接收剩余参数的函数
 
 ```javascript
-FUnction.prototype.partial = function (){
+Function.prototype.partial = function (){
     var _self = this,
         _args = [].slice.call(arguments);
     return function(){
