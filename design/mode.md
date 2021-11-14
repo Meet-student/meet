@@ -306,7 +306,7 @@ function createPerson(name){
     }
     return a
 }
-let person = createPerson('高江华')
+let person = createPerson('遇见')
 person.getName()
 console.log(person.name)
 ~~~
@@ -338,8 +338,8 @@ Create.prototype = {
     person: Person,
     car: Car
 }
-let person = new Create('person', '高江华')
-let car = Create('car', '灰太狼')
+let person = new Create('person', '遇见')
+let car = Create('car', '遇见')
 person.getName()
 car.getModel()
 ~~~
@@ -740,7 +740,7 @@ es6代理
 
 ~~~js
 let star = {
-    name: '高江华',
+    name: '遇见',
     age: 25,
     phone: '15257184434'
 }
