@@ -382,17 +382,17 @@ p.init()
 ~~~js
 let data = [
     {
-        name: '高 江华',
+        name: 'Meet',
         age: 25,
         work: 'engineer'
     },
     {
-        name: '灰 太狼',
+        name: '遇见',
         age: 25,
         work: 'teacher'
     },
     {
-        name: '红 太狼',
+        name: 'MT',
         age: 25,
         work: 'xxx'
     }
@@ -440,18 +440,18 @@ console.log(candiDateArr[0].work)
 ~~~js
 let data = [
     {
-        name: '高 江华',
-        age: 25,
+        name: 'Meet',
+        age: 21,
         work: 'engineer'
     },
     {
-        name: '灰 太狼',
+        name: '遇见,
         age: 25,
         work: 'teacher'
     },
     {
         name: '红 太狼',
-        age: 25,
+        age: 22,
         work: 'xxx'
     }
 ]
