@@ -450,7 +450,7 @@ let data = [
         work: 'teacher'
     },
     {
-        name: '红 太狼',
+        name: 'Mt',
         age: 22,
         work: 'xxx'
     }
