@@ -13,7 +13,7 @@
 
 #### 掘金：[遇见同学](https://juejin.cn/user/3544481220800296)
 
-#### 语雀：[遇见同学](https://www.yuque.com/meet-student)
+#### 语雀：[遇见](https://www.yuque.com/meet-student)
 
 其他社区也在疯狂接触！！
 
