@@ -1,10 +1,4 @@
 /*
- * @Author: bucai
- * @Date: 2020-06-27 10:00:33
- * @LastEditors: bucai
- * @LastEditTime: 2020-06-27 10:04:35
- * @Description: 失败重试
- */
 // 1.首先来个封装获取数据的 Promise方法
 function getData () {
   let p = new Promise((resolve, reject) => {
